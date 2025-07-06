@@ -7,7 +7,22 @@ selector {
 h2{
     color: red;
 }
-p{
+/* p{
     color: aqua;
     background-color: black;
+} */
+/* element selector */
+div{
+    background-color: rebeccapurple;
+    color: wheat;
+    padding: 10px;
+}
+/* class selector */
+.highlight{
+    color: chocolate;
+    font-size: 24px;
+}
+.text-contant{
+    background-color: gold;
+    padding: 10px;
 }
