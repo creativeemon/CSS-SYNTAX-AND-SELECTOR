@@ -1,0 +1,13 @@
+/* basic syntax */
+
+selector {
+     property: value;
+}
+
+h2{
+    color: red;
+}
+p{
+    color: aqua;
+    background-color: black;
+}
