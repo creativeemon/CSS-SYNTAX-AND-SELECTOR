@@ -36,3 +36,22 @@ div{
 #my_custom_id{
   font-size: 24px;
 }
+/* Group selector */
+ul li ,ol li{
+  font-size: 20px;
+  font-style: italic;
+  text-decoration: underline;  
+}
+
+/* combining selector */
+header nav ul li {
+    font-style: normal;
+    font-size: 16px;
+    text-decoration: none;
+    list-style: none;
+}
+header nav ul li a {
+    text-decoration:none ;
+    list-style: none;
+    color: red;
+}
