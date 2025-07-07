@@ -26,3 +26,13 @@ div{
     background-color: gold;
     padding: 10px;
 }
+/* I selector */
+#sub_heading{
+  color: blueviolet;
+  font-size: 24px;
+  margin-top: 100px;
+}
+
+#my_custom_id{
+  font-size: 24px;
+}
